@@ -1,7 +1,6 @@
 +++
 date = "2017-04-25T23:14:03-03:00"
 description = "Desc"
-draft = true
 meta_img = "/images/image.jpg"
 tags = []
 title = "Como crear un blog con Hugo"
