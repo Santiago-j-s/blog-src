@@ -1,0 +1,32 @@
+baseurl = "https://santiago-j-s.github.io/"
+theme = "cocoa-eh"
+canonifyurls = true
+contentdir = "content"
+defaultContentLanguage = "es-AR"
+languageCode = "es-AR"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Santiago Santana"
+title = "Santana Santiago"
+disqusshortname = ""
+pluralizelisttitles = false
+
+[permalinks]
+blog = "blog/:slug/"
+
+[params]
+locale = "es-AR"
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "Example blog"
+logofile = "img/logo.png"
+faviconfile = "img/logo.png"
+highlightjs = true
+progressively = true
+latestpostcount = 5
+github = "santiago-j-s"
+email = "santana.santiago@gmail.com"
+linkedin = "santiago-santana-22569399"
+twitter = "santiago_j_s"
+social_banner = "img/banner.png"
+posts_navigation = true

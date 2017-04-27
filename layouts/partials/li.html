@@ -1,0 +1,5 @@
+{{ $mes := index .Site.Data.fechas.mes_corto (printf "%d" .Date.Month) }}
+<li class="post-item">
+    <span class="meta">{{ $mes }} {{ .Date.Day }}, {{ .Date.Year }}</span>
+    <a href="{{ .Permalink }}"><span>{{ .Title }}</span></a>
+</li>
