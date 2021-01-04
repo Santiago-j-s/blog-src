@@ -1,4 +1,14 @@
 ---
 label: Post
 hide_body: false
-fields: []
+fields:
+- name: titulo
+  type: text
+  config:
+    required: false
+  label: Título
+- name: imagen_principal
+  type: file
+  config:
+    maxSize: 64
+  label: Imagen principal
