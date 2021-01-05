@@ -1,12 +1,12 @@
 +++
-date = "2017-04-25T23:14:03-03:00"
+date = 2017-04-26T02:14:03Z
 description = "Desc"
+draft = true
 meta_img = "/images/image.jpg"
 tags = []
 title = "Como crear un blog con Hugo"
 
 +++
-
 [Hugo](http://gohugo.io) es un generador de páginas web estáticas muy sencillo de usar. ¿Qué es una página web estática? Simple, una página en la que el único trabajo que tiene que hacer el servidor HTTP es servir los archivos HTML, JS y CSS previamente generados, a diferencia de los sitios dinámicos en que el contenido HTML es generado por el servidor desde el código de algún lenguaje de programación (PHP por ejemplo) al momento de recibir una petición.
 
 Los sitios estáticos tienen algunas ventajas tales como facilidad de mantenimiento y el poder alojar el sitio en casi cualquier lado.
